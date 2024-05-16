@@ -1,9 +1,5 @@
 # TERMUX PLUGIN SUPPORT (TPS)
 
-<!-- GitHub Visitors Counter -->
-<script async defer src="https://platform.github.io/widgets.js"></script>
-<!-- Place this tag where you want the GitHub visitor counter to show -->
-<div class="github-widget" data-repo="maskprivate1457/https://github.com/maskprivate1457"></div>
 
 Type the code below in termux 👇
 
