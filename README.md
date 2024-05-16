@@ -45,4 +45,16 @@ for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):Loa
 
 If there are syntax or problems with the program we created, you can report it via our social media below 👇
 
-<button><a href ="Instagram.com"></button></a>
+<div id="badges" align="center">
+  <a href="https://wa.link/n9jwju">
+    <img src="https://img.shields.io/badge/Whatsapp-bold green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+  <a href="https://instagram.com/mask_private1457">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=bold pink" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/83927502j482948.849274j3927402">
+    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
+	<a href="mailto:hubungikami123456@gmail.com">
+    <img src="https://img.shields.io/badge/Gnail-white?style=for-the-badge&logo=gmail&logoColor=bold red" alt="Gmail Badge"/>
+  </a>
+</div>
