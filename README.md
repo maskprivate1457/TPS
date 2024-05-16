@@ -54,6 +54,6 @@ If there are syntax or problems with the program we created, you can report it v
   <a href="https://www.facebook.com/83927502j482948.849274j3927402">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
 	<a href="mailto:hubungikami123456@gmail.com">
-    <img src="https://img.shields.io/badge/Gnail-white?style=for-the-badge&logo=gmail&logoColor=bold red" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=bold red" alt="Gmail Badge"/>
   </a>
 </div>
