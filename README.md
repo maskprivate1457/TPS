@@ -45,3 +45,4 @@ for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):Loa
 
 If there are syntax or problems with the program we created, you can report it via our social media below 👇
 
+<button><a href ="Instagram.com"></button></a>
