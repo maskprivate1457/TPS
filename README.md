@@ -31,7 +31,6 @@ The python code below functions to load the countdown👇
 ```python
 import requests,os,re,sys,random,subprocess,json,time
 from rich.console import Console
-from rich.text import Text
 from rich.progress import track
 
 def LoadingTime():
