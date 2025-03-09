@@ -7,10 +7,13 @@ Type the code below in termux 👇
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git
-$ pkg install python
+$ pkg install python -y
+$ pkg install mpv -y && pkg install play-audio -y
+$ pip install --upgrade pip && pip install halo
 $ git clone https://github.com/maskprivate1457/TPS
 $ cd TPS
-$ python ITI.py
+$ git pull
+$ python ITI2.py
 ```
 This program can make it easier for you to run Termux scripts in the form of: modules & packages
 
