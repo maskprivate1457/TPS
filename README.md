@@ -45,6 +45,21 @@ def LoadingTime2():
 for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):LoadingTime2()
 for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):LoadingTime()
 ```
+# TAMPILAN MENU UTAMA
+
+![Alt text](https://l.top4top.io/p_3355b4w640.jpg)
+
+# TAMPILAN ERROR
+
+![Alt text](https://a.top4top.io/p_3355ccjcn1.jpg)
+
+# TAMPILAN NOMOR 4
+
+![Alt text](https://b.top4top.io/p_3355hqtvy2.jpg)
+
+# TAMPILAN INFORMATION
+
+![Alt text](https://c.top4top.io/p_3355iexed3.jpg)
 
 If there are syntax or problems with the program we created, you can report it via our social media below 👇
 
