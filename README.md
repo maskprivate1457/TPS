@@ -2,14 +2,6 @@
 
 <div align="center"><img src="https://b.top4top.io/p_3058j78e50.jpg"></div></img><br>
 
-# TERMUX APK ANDROID 5 OR 6
-
-https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_universal.apk
-
-# TERMUX APK ANDROID 7
-
-https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_universal.apk
-
 Type the code below in termux 👇
 
 ```
@@ -53,6 +45,16 @@ def LoadingTime2():
 for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):LoadingTime2()
 for _ in track(range(100), description=f'{P2}Sedang Keluar Dari Program...'):LoadingTime()
 ```
+
+# TERMUX APK ANDROID 5 OR 6
+
+https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-5-github-debug_universal.apk
+
+# TERMUX APK ANDROID 7
+
+https://github.com/termux/termux-app/releases/download/v0.119.0-beta.1/termux-app_v0.119.0-beta.1+apt-android-7-github-debug_universal.apk
+
+
 # TAMPILAN MENU UTAMA
 
 ![Alt text](https://l.top4top.io/p_3355b4w640.jpg)
